@@ -67,7 +67,7 @@ The load\_generators are found in the  [OSgscal github repo](https://github.com/
 
 ### Use
 
-Just untar it or check it out from mas on the HTCondor submit node (see above):
+Just untar it or check it out from the repo into the HTCondor submit node (see above):
 
 ``` console
 git checkout https://github.com/efajardo/osgscal
